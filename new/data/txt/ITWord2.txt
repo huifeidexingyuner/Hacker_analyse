@@ -1,0 +1,405 @@
+computational   adj. 计算的，电脑的 <br/>
+mode    n. 模式 <br/>
+primitive   n. 原始、基元，是后续操作的基础 <br/>
+gigabyte    n. 千兆字节，是数据单位 <br/>
+storage n. 储存体, 仓库 <br/>
+retrieve    n. 检索,恢复 <br/>
+algorithm   n. 算法 <br/>
+accomplish  vt. 完成 <br/>
+scheme  n. 方案, 计划, v. 设计, 体系, 结构, <br/>
+compute vt. 计算 <br/>
+code    n. 码,密码 vt. 把…编码 <br/>
+halt    v 停止 <br/>
+computation n. 计算，计算方法，计算结果 <br/>
+knowledge   n. 知识,了解 <br/>
+declarative adj. 说明的, 陈述的 declarative knowledge 陈述性知识 <br/>
+imperative  adj. 命令式的,互动的 imperative knowledge 互动性知识 <br/>
+recipe  n. 挂起，暂停 <br/>
+evaluate    vt. 评估,评价 <br/>
+square root 平方根 the square root of a number x x的平方根 <br/>
+deduce  vt. 演绎,推断 <br/>
+capture vt. 采集,描绘,制作 <br/>
+fix vt. &amp;vi.修理,安装 <br/>
+calculator  n. 计算器 <br/>
+decode  v. 解码, 译解 [计算机] 译码 <br/>
+enigma  n. 谜 <br/>
+manipulate  v. [计算机] 操作 <br/>
+instruction n. 指令,说明 <br/>
+set n.集合 predefined set 预设集合 <br/>
+arithmetic  n. 算术，运算 <br/>
+store   n. (在计算机里)存贮；记忆 <br/>
+test    n.vt. 测试 <br/>
+execute vt. [计算机] 执行 <br/>
+source  n. 来源 source code 源代码 <br/>
+sequence    n. 序列, 一系列, 顺序 <br/>
+architecture    n.体系结构 <br/>
+abstract    n.简化，抽象 <br/>
+computable  adj. 可计算的 <br/>
+mechanism   n. 机制 <br/>
+syntax  n. 语法 （规范代码的结构，成分和顺序上正确） <br/>
+static  adj. 静态的 <br/>
+ambiguous   adj. 歧义的 <br/>
+unpredictable   adj. 不可预知的 <br/>
+intend  v. 打算 （打算使之成为。。。） <br/>
+crash   n 崩溃，停止运行 <br/>
+algorithmic adj.[计]算法的,规则系统的 <br/>
+process n.过程，进程，步骤 <br/>
+programming language    n.程序设计语言 <br/>
+checker n. 检验器, 检查员 <br/>
+internal    adj. 内部的 <br/>
+interpreter n. 解释器 <br/>
+compiler    n. [计算机]编译器, 编译程序 <br/>
+invert  v. 使反向;invert a matrix反转矩阵 <br/>
+abstraction n. 抽象, 参数化 <br/>
+converter   n. 转换器 =convertor <br/>
+script  n. 脚本 <br/>
+definition  n. 清晰度 <br/>
+command n. [计算机]指令；命令 <br/>
+shell   n.[计算机] DOS命令 ，壳 <br/>
+instruct    [计算机] 指示 <br/>
+object  n. 对象 <br/>
+type    n.类型 <br/>
+scalar  标量(的) <br/>
+represent   vt. 代表 <br/>
+integer [计算机] 整数 <br/>
+int 整型 <br/>
+float   n. 浮点型 <br/>
+const   abbr. 常数（=constant） <br/>
+expression  表达式 <br/>
+denote  vt. 表示，意味着 <br/>
+sum n. 总数(计) vi. 总计 <br/>
+difference  n. 差 <br/>
+product n. 乘积 <br/>
+division    n. 除法 <br/>
+quotient    n. 商 <br/>
+remainder   n. 余数，余 <br/>
+power   n.次方，幂 <br/>
+operator    n. 运算符 <br/>
+precedence  n. 优先 <br/>
+truncate    vt. 舍位 <br/>
+indicate    v.说明，指示 <br/>
+decimal n.十进制 <br/>
+arbitrary   adj. 任意的 <br/>
+variable    adj. 可变的 n. 变量 <br/>
+value   n. 值 <br/>
+assignment  n. 赋值 <br/>
+bind    vt. 绑定</p>
+<p>invoke  [计算机] 调用 <br/>
+binding n.绑定关系 <br/>
+rebound n. 回跳，反弹 <br/>
+diagram n. 图解,关系图 <br/>
+transcript  n. 抄本，脚本 <br/>
+compound    n. 混合物,复合词 <br/>
+literal [计算机] 文字的,文本 <br/>
+quote   n. 引用 quotes引号 <br/>
+character   n. 字符 <br/>
+extract [计算机] 提取、取值、查看 <br/>
+index   n.索引 <br/>
+boundary    n. 分界线, 边界boundaries 边界 <br/>
+slice   n. 薄的切片,一部份,锅铲 vt. 切成薄片,大幅降低 <br/>
+essentially adv. 基本上 <br/>
+specify vt. 指定、指明 <br/>
+tuple   n. 元组 <br/>
+collection  n. 集合 <br/>
+list    n.列表 <br/>
+dictionary  n. 词典 <br/>
+equivalent  n. 相当于 <br/>
+portion n. 部分 <br/>
+omit    vt. 省略 <br/>
+original    n. 源语言、最初的 <br/>
+parameter   n. 形参、参数 <br/>
+interface   n. 接口 <br/>
+statement   n. 命令，声明 <br/>
+incorporate vt.将纳入 <br/>
+raw adj. 未经处理的；未经分析的 <br/>
+load    v. 装载, 加载 <br/>
+variation   n. 变化,变动 <br/>
+sophisticated   adj. 复杂的；精致的 <br/>
+branch  n. 分支 <br/>
+conditional adj. 有条件的n. [语]条件句 <br/>
+block   n.块，框图 <br/>
+even    adj. 偶数的 <br/>
+odd adj. 奇数的 <br/>
+comparison  n. 比较 <br/>
+reserved    adj. 预留、被留作…专用的 <br/>
+indentation n. 缩进 <br/>
+nested  adj.嵌套的</p>
+<p>blank   n. 空白 <br/>
+yep adv. &lt;俚&gt;是 <br/>
+nope    adv. 不, 没有 <br/>
+hint    n. 提示 <br/>
+preliminary n. 初步 adj. 初步的 <br/>
+engage  v. 预定, 参与 <br/>
+intermediate    n. 中间体 <br/>
+proficient  adj. 熟练的,精通的 n. 能手,专家 <br/>
+enroll  vt. &amp;vi. 登记,注册 <br/>
+doctorate   n. 博士学位 <br/>
+allocate    v. 分派, 分配 <br/>
+affiliated  adj. 附属的, 隶属 <br/>
+iteration   迭代(法), 循环, 重复 <br/>
+complexity  n. 复杂arbitrary complexity   任意复杂 <br/>
+loop    n.循环 loop body  循环体 <br/>
+repetitive  adj. 重复的 <br/>
+terminate   vt. 终止 <br/>
+halt    n. 停止 <br/>
+convert v. 转换 <br/>
+inclusive   adj. 包含…在内的 <br/>
+generate    [计算机] 形成，生产 <br/>
+cube    n. 立方体,立方 <br/>
+scope   n. 范围 <br/>
+termination n. 结尾、终止、末端 <br/>
+exhaustive  adj. 详尽的 <br/>
+enumeration n.枚举，列举 <br/>
+finite  adj. 有限的 <br/>
+characteristic  n. 特性, 特征 <br/>
+identifier  n. 标识符 <br/>
+bound   n. 范围 指向 <br/>
+disregard   vt. 忽视 <br/>
+optional    adj. 可选的 <br/>
+divisor n. 除数 <br/>
+current n. (水、气、电)流, 趋势 adj. 当前的 <br/>
+sample  n. 样品,标本，例子 <br/>
+decimal adj. 十进位的,小数的 <br/>
+binary  n. 二进制,二元 <br/>
+exponentiation  n. [数]求幂 <br/>
+internally  adv.内部的 <br/>
+implication n. 暗示,含意 <br/>
+round   vt. 使成为整数 <br/>
+accuracy    n. 准确(性), 精确度 <br/>
+fraction    n. 分数 <br/>
+guarantee   n. 保证(书), 担保(书) <br/>
+bisection   n.两断,对分bisection search 二分搜索 <br/>
+epsilon n. 希腊语字母之第五字, [数]小的正数 <br/>
+radically   adv.从 根本上地, 完全地 <br/>
+demo    n. 演示的缩写 <br/>
+subsequent  adj. 随后的,其次 <br/>
+transcript  n. 抄本,副本 <br/>
+invalid adj. 无效的 <br/>
+prompt  adj. 敏捷的 vt. 提示 vi. 提示 <br/>
+optimize    v.优化，使…完善 <br/>
+endpoint    n. 端点，终结点 <br/>
+reuse   v. 重用reusing <br/>
+polynomial  n. 多项式 adj. 多项的 <br/>
+derivative  n. 导数, 微商 <br/>
+sufficient  adj. 足够的, 充分的，有能力的 <br/>
+cumbersome  adj. 笨重的，繁琐 <br/>
+maintain    vt. 维持; 维修 <br/>
+encapsulate v. 封装 <br/>
+invocation  [计算机] 调用 <br/>
+argument    n. 实参，参数 <br/>
+numeric adj. 数字的，数值的 <br/>
+session n.会话 <br/>
+function    n. 函数 vi. 运行 <br/>
+resolute    adj. 坚决的, 果断的 <br/>
+formalism   n. 形式主义 <br/>
+tracking    n. 跟踪 动词track的现在分词形式 <br/>
+default n. 默认(值)[计算机] 缺省 <br/>
+procedure   n. 程序, 步骤 <br/>
+frame   n. 框,结构,帧 <br/>
+parent  n. 母本 <br/>
+mechanistic adj. 机械的 <br/>
+quadratic   n. 二次方程式，二次方程式论 <br/>
+revert  vi. 恢复,复归,回到 <br/>
+lexical adj. 字典的, 语句的 <br/>
+specification   n. 规格,详述,详细说明书 <br/>
+decomposition   n. 分解 <br/>
+interior    adj. 内部的 <br/>
+vowel   n. 母音, 元音 <br/>
+implement   n. 工具, 器具 <br/>
+constraint  n. 约束 [计算机] 限制 <br/>
+module  [计算机] 模块 n. 组件 <br/>
+modularity  n.[计] 模块性,模块化设计 <br/>
+import  n. 导入 <br/>
+circumference   n. 周长 <br/>
+notation    n. 表示法,注释 [计算机] 记法 <br/>
+sphere  adj. 球体的 n. 范围, 领域 <br/>
+immutable   adj. 不可变的 <br/>
+capitalize  v. 以大写字母写 <br/>
+exterminate vt. 灭绝 <br/>
+larch   n. 落叶松 <br/>
+method  n. 方法 <br/>
+debug   v.调试 <br/>
+conceptualize   vt. 概念化 <br/>
+multiplication  [计算机] 乘法 <br/>
+numerical   adj. 数字的 <br/>
+state   vt. 声明 <br/>
+update  n. 更新 <br/>
+recursive   adj. 递归的，循环的 <br/>
+alternative adj. 两者择一的 n. 替换物, 取舍 <br/>
+distinct    adj. (from)独特的 <br/>
+hence   adv. 因此 <br/>
+induction   n. 归纳，归纳推理 <br/>
+factorial   adj. 阶乘的 n. 阶乘 <br/>
+euclid  n.欧几里得(约公元前3世纪的古希腊数学家) <br/>
+spike   n. 长钉, 钉鞋 竖杆 <br/>
+stack   vt. 堆积 <br/>
+disc    n. 圆盘 <br/>
+multiple    adj. 多个 n. 倍数,并联 <br/>
+pen n. 钢笔 v. 圈进 <br/>
+mate    交配, 使…一致, 结伴 <br/>
+gestation   n. 怀孕, 孕育时期 <br/>
+assert  vt. 主张,声明,断言 <br/>
+palindrome  n. 回文(指顺读和倒读都一样的词语) <br/>
+punctuation n. 强调,标点 <br/>
+bisection   n.两断,对分 <br/>
+locality    n. 地点，发生地 <br/>
+initialization  n.设定初值,初 <br/>
+tuple   n. 元组 <br/>
+modify  vt. 修改,调正 <br/>
+sampling    n. 抽样，样品 动词sample的现在分词形式 <br/>
+concatenation   n. 串联、连续、连结成串 <br/>
+illustrate  vt. 举例说明,作图解 vi. 举例 <br/>
+singleton   n. 独生子, 独身, (扑克牌)单张 <br/>
+mutable adj. 可变化的 <br/>
+modification    n. 修改 <br/>
+prone   adj. 易于…的, 有…倾向的 <br/>
+flexibility n. 灵活性 <br/>
+mutate  vi. 转变，转换 <br/>
+alias   n. 别名,假名 <br/>
+treacherous adj. 不可靠的, 危险的 <br/>
+identify    vt.识别，认出； 确定； 使参与； 把…看成一样 vi.确定； 认同 <br/>
+sufficient  adj. 足够的, 充分的 <br/>
+sort    v. ,排序 n.[计算机] DOS命令 : 在字符型文件中进行数据排序, 或者将DOS命令的输出进行排序 <br/>
+reverse v. 反转，颠倒顺序 <br/>
+generalization  n. 一般化，泛论 <br/>
+unary   adj. 一元的, 单项的 <br/>
+corresponding   adj. 相应的, 相当的 <br/>
+ease    n. 简单 <br/>
+constraint  n. 约束 [计算机] 限制 <br/>
+suite   n. 套件，套装软件 <br/>
+likelihood  n. 可能性 <br/>
+revealing   adj. 揭示，显示 动词reveal的现在分词 <br/>
+subset  n. 子集，分组 <br/>
+construct   vt. 构造 <br/>
+split   n. 拆分 <br/>
+trial   n.审判 <br/>
+heuristic   试探法, 启发式的 <br/>
+inherent    adj. 内在的, 固有的 <br/>
+implementation  n.执行 <br/>
+duplicate   n. 复制品 vi. 重复 [计算机] 复制 <br/>
+bias    n. 偏见 <br/>
+thumb   n.拇指 <br/>
+driver  n. 驱动程序 <br/>
+stub    n. 桩，存根</p>
+<p>simulate    v. 模拟 <br/>
+regression  n. 回归，复位 <br/>
+vacuum  n. 真空 <br/>
+apparatus   n. 装置，仪器 <br/>
+overt   adj. 公开的, 明显的 <br/>
+convert v. 遮蔽的、不明显的 <br/>
+manifestation   n. 显示 <br/>
+persistent  adj. 持续的,连续的 <br/>
+category    n. 种类, 类别 <br/>
+defensive   adj. 防备用的，防御性的 <br/>
+prompt  adj. 敏捷的 <br/>
+hypothesis  n. 假设 <br/>
+repeatable  adj.可重复的 ( 实验、 实验结果等) 可复验的 <br/>
+refute  vt.驳斥，反驳 <br/>
+aliasing    n. 图形失真，声音失真[计算机]消除锯齿 <br/>
+conform vt. 使一致,遵守,使顺从 vi. 一致,符合 <br/>
+norm    n. 标准,规范 <br/>
+somewhat    adv.稍微； 有点 <br/>
+virtually   adv. 几乎,实际上 <br/>
+exception   n. 异常 <br/>
+fetal   adj. 胎儿的,胎的 <br/>
+handle  vt. 操作，处理 <br/>
+anticipate  vt. 预测 <br/>
+polymorphic adj.多态的 <br/>
+alternative n. 替代，切换 <br/>
+substitute  v. 代替 <br/>
+indication  n. 象征,指示 <br/>
+suspect vi.怀疑 <br/>
+cascade n. 瀑布，[电]串联 [计]一连串 <br/>
+clause  n. 分句, 从句，【计】子句 <br/>
+entry   n. 条目、输入项目 <br/>
+comma   n. 逗号 <br/>
+handler n. 处理者，处理器 【计】处理函数、处理程序 <br/>
+clue    n. 线索 vt. 提示 <br/>
+snippet n.代码段 <br/>
+stymy   n.妨碍 <br/>
+flag    n. 标示 <br/>
+assert  vt. 声明,断言 <br/>
+propagate   vt. &amp;vi. 传播 <br/>
+supplement  n. 补充物 vt. 补充 <br/>
+normalize   v. 标准化 <br/>
+correspond  vi. 符合,通信,相当 <br/>
+invariant   不变的, 不变量 <br/>
+violation   n. 违反,妨碍 <br/>
+dealt   动词deal的过去式和过去分词 <br/>
+pseudocode  [计]伪代码 <br/>
+optimize    v.优化 <br/>
+irrelevant  adj. 无关的,不相干的 <br/>
+scenario    n. 方案 <br/>
+quadratic   adj. 二次的 n. 二次方程式，二次方程式论 <br/>
+nested  adj.嵌套的 <br/>
+crucial adj. 关键的,决定性的【计】至关重要 <br/>
+asymptotic  adj.[数]渐近线的,渐近的 <br/>
+order   n.命令 order of   阶乘，数量级 <br/>
+dominate    v. 支配, 占优势，俯视 <br/>
+logarithmic adj.对数的 <br/>
+merge   vt. &amp;vi [计算机] 合并 <br/>
+inherently  adv.本质上 <br/>
+collection  n. 集合 <br/>
+indirection n. .间接寻址、间址 <br/>
+sought  vbl. 寻找,搜索(seek的过去式和过去分词) <br/>
+ascending   adj. 上升的，升序 <br/>
+precise adj. 精确的 <br/>
+suffix  n. 后缀 <br/>
+skewed  adj. 倾斜 <br/>
+problematic adj. 问题的, 有疑问的 <br/>
+cluster n. 簇，团 <br/>
+coherent    adj. 清晰的，明了的 <br/>
+isolate v. 隔离 <br/>
+bundle  n. 捆,一批 <br/>
+encapsulate v. 封进内部, 压缩 <br/>
+reclaim v. 回收 <br/>
+inheritance n. 继承 <br/>
+interface   n. 界面,接口 <br/>
+invoke  vt. [计算机] 调用 <br/>
+initialize  vt. 初始化 <br/>
+hierarchy   n. 层次结构 <br/>
+ubiquitous  adj. 到处存在的，无处不在 <br/>
+cardiovascular  adj. 心脏血管的 <br/>
+template    n. 模板,样板 <br/>
+rubric  n. 专栏 <br/>
+deviation   n. 偏差数 <br/>
+discretion  n. [计算机] 判定 <br/>
+dub vt. 配音 <br/>
+increment   n. 增加(增加物, 增量, 余差) <br/>
+interval    n. 间隔,休息时间 <br/>
+operand n. [数学]操作数 <br/>
+console vt. 控制台 <br/>
+split   n. 拆分 <br/>
+archery n. 箭术，箭头 <br/>
+automobile  n. 汽车 adj. 汽车的 <br/>
+spawn   n. 引发引起、导致 <br/>
+tab n.(tabulate)制表, 标签 <br/>
+configuration   n. [计算机] 配置 <br/>
+simultaneous    adj. 同步的 <br/>
+irrelevant  adj. 不相干的 <br/>
+overlap [计算机] 重叠 <br/>
+trajectory  n. 轨道,弹道,轨线 <br/>
+bounce off  反弹 <br/>
+trait   n. 特征,特点,特性,品质 <br/>
+encapsulation   包装,封装 <br/>
+overload    [计算机] 过载 <br/>
+deposit vt. 存放 n. 存款 <br/>
+withdraw    vt. 取钱 <br/>
+respectively    adv. 各自地, 分别地 <br/>
+balance n.平衡，余额 <br/>
+penalty n. 处罚,惩罚 <br/>
+concatenate v. 串联 <br/>
+offspring   n. 后代, 产物 <br/>
+snippet n.代码段 <br/>
+thruster    n. 推进器 <br/>
+environment n. 环境,外界 <br/>
+period  n. 学时, 周期; 句号 <br/>
+library n. 图书馆, 程序库 <br/>
+editor  n. 编辑, 编者 <br/>
+reset   n. 重新设定 <br/>
+run n. 运行 <br/>
+bookmark    n. 书签 <br/>
+URL abbr. Uniform Resource Locator, 在Internet的WWW服务程序上用于指定信息位置的表示方法 <br/>
+register    v. 登记, 注册 <br/>
+timer   n. 计时员，记时器, 跑表 <br/>
+stopwatch   n. 记秒表,跑表 vt. 用秒表测定时间</p>
